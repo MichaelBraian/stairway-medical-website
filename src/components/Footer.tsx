@@ -27,7 +27,7 @@ const Footer = () => {
             <p className="text-gray-400">info@stairwaymedical.com</p>
             <div className="mt-4">
               <h4 className="text-lg font-semibold mb-2">Follow Us</h4>
-              <a href="#" className="text-gray-400 hover:text-white transition-colors">
+              <a href="https://www.linkedin.com/company/stairway-medical/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
                 <Linkedin size={24} />
               </a>
             </div>
