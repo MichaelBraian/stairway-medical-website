@@ -6,6 +6,7 @@ import FeatureHighlight from './components/FeatureHighlight';
 import ProductShowcase from './components/ProductShowcase';
 import Team from './components/Team';
 import News from './components/News';
+import Sedator from './components/Sedator'; // Import the new component
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
@@ -19,6 +20,7 @@ function App() {
       <ProductShowcase />
       <Team />
       <News />
+      <Sedator /> {/* Add the new component here */}
       <Contact />
       <Footer />
     </div>

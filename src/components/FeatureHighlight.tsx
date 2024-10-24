@@ -7,7 +7,7 @@ const DeviceInfo = () => {
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row items-center justify-between">
           {/* Image Section */}
-          <div className="w-full md:w-1/2 mb-8 md:mb-0">
+          <div className="w-full md:w-1/2 md:max-w-md">
             <img src="/images/STAIRWAY-Studio.webp" alt="STAIRWAY Device" className="w-full h-auto object-cover rounded-lg shadow-lg" />
           </div>
 
